@@ -1,0 +1,200 @@
+[
+    {
+        "_id": "60bb91f81b7f70fb97346cbe",
+        "isActive": false,
+        "balance": "$3,539.90",
+        "name": "Roman Doyle",
+        "email": "romandoyle@sureplex.com",
+        "phone": "+1 (844) 400-2078",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Catherine Santana"
+            },
+            {
+                "id": 1,
+                "name": "Cervantes Brown"
+            },
+            {
+                "id": 2,
+                "name": "Jensen Mcdonald"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f871d24cad23f31c6f",
+        "isActive": true,
+        "balance": "$3,123.94",
+        "name": "Moran Dillard",
+        "email": "morandillard@sureplex.com",
+        "phone": "+1 (888) 549-3598",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Maribel Wall"
+            },
+            {
+                "id": 1,
+                "name": "Dixon Robinson"
+            },
+            {
+                "id": 2,
+                "name": "Rivas Stein"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f8ce701fa5f0d122c1",
+        "isActive": true,
+        "balance": "$2,597.47",
+        "name": "Burt Rogers",
+        "email": "burtrogers@sureplex.com",
+        "phone": "+1 (949) 544-3266",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Mildred Dillon"
+            },
+            {
+                "id": 1,
+                "name": "Mcguire Mccormick"
+            },
+            {
+                "id": 2,
+                "name": "Janna Clay"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f87445e099463e2f64",
+        "isActive": true,
+        "balance": "$3,387.20",
+        "name": "Mccormick Williamson",
+        "email": "mccormickwilliamson@sureplex.com",
+        "phone": "+1 (919) 578-3360",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Olsen Dodson"
+            },
+            {
+                "id": 1,
+                "name": "Bridgette Craft"
+            },
+            {
+                "id": 2,
+                "name": "Kellie Snyder"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f81b889fa044a80312",
+        "isActive": false,
+        "balance": "$1,779.93",
+        "name": "Christy Larson",
+        "email": "christylarson@sureplex.com",
+        "phone": "+1 (974) 571-2143",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Caitlin Wilcox"
+            },
+            {
+                "id": 1,
+                "name": "Bettye Herrera"
+            },
+            {
+                "id": 2,
+                "name": "Todd Adams"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f86813787943b0ce90",
+        "isActive": false,
+        "balance": "$3,599.06",
+        "name": "Diaz Cortez",
+        "email": "diazcortez@sureplex.com",
+        "phone": "+1 (977) 572-2571",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Carrie Frazier"
+            },
+            {
+                "id": 1,
+                "name": "Hudson Pittman"
+            },
+            {
+                "id": 2,
+                "name": "Castro Lee"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f8daac00aef54e5e46",
+        "isActive": false,
+        "balance": "$3,363.24",
+        "name": "Foster Wilkerson",
+        "email": "fosterwilkerson@sureplex.com",
+        "phone": "+1 (885) 485-2158",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Gallagher Mccarty"
+            },
+            {
+                "id": 1,
+                "name": "Cheri Rivas"
+            },
+            {
+                "id": 2,
+                "name": "Taylor Olson"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f8f52227e54a9d0c9d",
+        "isActive": false,
+        "balance": "$2,961.61",
+        "name": "Figueroa Cooper",
+        "email": "figueroacooper@sureplex.com",
+        "phone": "+1 (991) 430-3600",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Ladonna Graham"
+            },
+            {
+                "id": 1,
+                "name": "Amber Travis"
+            },
+            {
+                "id": 2,
+                "name": "Janis Joyce"
+            }
+        ]
+    },
+    {
+        "_id": "60bb91f88e59d5dde76a8a8c",
+        "isActive": true,
+        "balance": "$3,992.21",
+        "name": "Jeanie Montoya",
+        "email": "jeaniemontoya@sureplex.com",
+        "phone": "+1 (878) 521-2190",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Vega Moss"
+            },
+            {
+                "id": 1,
+                "name": "Kristy Whitney"
+            },
+            {
+                "id": 2,
+                "name": "Simpson Leonard"
+            }
+        ]
+    }
+]
